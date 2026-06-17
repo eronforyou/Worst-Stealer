@@ -11,7 +11,7 @@ WorstStealer is a premium, high-performance infostealer designed for silent data
 ---
 
 ### 🖥️ Web Panel Preview
-![WorstStealer Web Panel Dashboard](https://cdn.discordapp.com/attachments/1508516779515838505/1508516820812824727/image.png?ex=6a2e3704&is=6a2ce584&hm=e3fb17a221eaaeff7638b4a10594adc1126b1afae55eea47bb1e556171db97ae)
+![WorstStealer Web Panel Dashboard](https://i.hizliresim.com/88aqy0b.png)
 
 ### [**Worst Stealer Preview Video**](https://youtu.be/W_2N2tAwdSk)
 
